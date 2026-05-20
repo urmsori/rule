@@ -7,7 +7,7 @@
 - rule should have clear scope and end.
 - this rule itself tries to be so.
 
-- # 규칙
+# 규칙
 
 - 규칙은 협업의 불편함을 없애기 위해 만들면 좋다.
 - 규칙은 용어를 정의하면 좋다.

@@ -1,10 +1,10 @@
 # rule
 
-- rule should reduce friction in collaboration.
-- rule should define term.
-- rule should be followable without full read.
-- rule should validate itself.
-- rule should have clear scope and end.
+- it's better if a rule reduces friction in collaboration.
+- it's better if a rule defines its terms.
+- it's better if a rule can be followed without a full read.
+- it's better if a rule validates itself.
+- it's better if a rule's scope and end are foreseeable.
 - this rule itself tries to be so.
 
 # 규칙
